@@ -1,0 +1,14 @@
+
+
+button {
+  padding: 32px 48px;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  gap: 36px;
+}
